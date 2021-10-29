@@ -1,0 +1,11 @@
+{
+    "userid": "ENTER YOUR USERNAME",
+    "password": "ENTER YOUR PASSWORD",
+    "moderators": [
+        
+        "MODERATOR_NAME-1",
+        "MODERATOR_NAME-2",
+        "MODERATOR_NAME-3",
+        "MODERATOR_NAME-4"
+    ]
+}
